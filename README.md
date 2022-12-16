@@ -2,4 +2,4 @@
 �
 �
 
-Hosted Link: https://jjeerryyy28.github.io/GL_G1_B3/
+Hosted Link: https://jjeerryyy28.github.io/G1-B3_DSA_GradedProject1/
